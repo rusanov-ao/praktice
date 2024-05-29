@@ -1,0 +1,2 @@
+# praktice
+Neural networks
